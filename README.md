@@ -1,2 +1,2 @@
 # repo-aula
-Treinamento com Git e GitHub
+## Treinamento com Git e GitHub
